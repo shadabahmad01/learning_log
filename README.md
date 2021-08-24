@@ -1,1 +1,1 @@
-Basic Web application made by following book "Python Crash Course" by "Eric Matthes".
+Basic web application that allows users to keep a journal about any number of topics they have been learning about.
